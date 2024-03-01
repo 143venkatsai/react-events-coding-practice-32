@@ -1,0 +1,40 @@
+.event-item {
+  list-style-type: none;
+  color: #ffffff;
+}
+
+.event-button {
+  background-color: transparent;
+  padding-left: 0px;
+  width: 90%;
+  padding: 0px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.event-image {
+  width: 100%;
+  max-width: 300px;
+  border: 2px solid transparent;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 4px;
+  margin-top: 10px;
+}
+
+.location {
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.active {
+  border: 2px solid #2dd4bf;
+  border-radius: 10px;
+}
